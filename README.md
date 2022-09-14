@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**0z5/0z5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+        <b>0z5 / afysar</b></br>
+        full-stack software engineer
+        
+        language skills:
+        java / lua(u) / node.js
+        php  / 
+        
+        experienced in:
+        rest & websocket protocols / various web services technologies
+        relational and non-relational databases
+        development in a linux environment 
+        game development aiding
+        react & angular
+        
+        keybase: https://keybase.io/afysar
+        
+</p>
